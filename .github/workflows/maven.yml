@@ -32,4 +32,4 @@ jobs:
         image: pavankumar789/gitactions
         tags: orders
         registry: docker.io
-        dockerfile: ./Dockerfile
+        dockerfile: ./docker/orders/Dockerfile
